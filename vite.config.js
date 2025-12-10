@@ -12,7 +12,7 @@ const getBasePath = () => {
     return process.env.VITE_BASE_PATH
   }
   // Default to repository name (update this to match your GitHub repo name)
-  return '/janaki-birthday-quest-transitions-goldcard/'
+  return '/Birthday_proj/'
 }
 
 export default defineConfig({
